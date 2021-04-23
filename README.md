@@ -1,7 +1,10 @@
 # codehook
 Github hooks for php code quality. If the quality of the code is bad the commit will be banned.
 
+Add this lines in composer.json file:
+
 ```
+...
   "scripts": {
     "cghooks": [
         "vendor/bin/cghooks"
@@ -12,4 +15,5 @@ Github hooks for php code quality. If the quality of the code is bad the commit 
         "chmod +x .git/hooks/pre-commit"
     ]
   }
+...
 ```
