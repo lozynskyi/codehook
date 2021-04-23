@@ -18,7 +18,9 @@ Add this lines in composer.json file:
 ...
 ```
 
-execute:
-for install dependency: **composer update** or **composer install**
-and after **composer fcs** for applying hooks in .git folder.
+Execute:
+
+For install dependency: **composer update** or **composer install**
+
+And after **composer fcs** for applying hooks in .git folder.
 
