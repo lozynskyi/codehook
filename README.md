@@ -1,5 +1,5 @@
 # codehook
-Github hooks for php code quality. Prevent committing in bad code quality. 
+Github hooks for php code quality. If the quality of the code is bad the commit will be banned.
 
 ```
   "scripts": {
