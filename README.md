@@ -20,7 +20,7 @@ Add this lines in composer.json file:
 
 Execute:
 
-For install dependency: **composer update** or **composer install**
+For install dependency: ```composer update``` or ```composer install```
 
 And after **composer fcs** for applying hooks in .git folder.
 
