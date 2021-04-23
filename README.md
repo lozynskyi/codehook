@@ -17,3 +17,9 @@ Add this lines in composer.json file:
   }
 ...
 ```
+
+execute 
+
+
+**composer update**
+**composer fcs**
