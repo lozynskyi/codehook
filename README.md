@@ -22,5 +22,5 @@ Execute:
 
 For install dependency: ```composer update``` or ```composer install```
 
-And after ```composer fcs``` for applying git hooks in pre-commit actin.
+And after ```composer fcs``` for applying git hooks in pre-commit action.
 
