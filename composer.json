@@ -1,1 +1,21 @@
-
+{
+  "name": "lozynskyi/codehook",
+  "description": "Check the quality of the code on the PSR standard.",
+  "minimum-stability": "stable",
+  "license": "Apache-2.0 License",
+  "authors": [
+    {
+      "name": "pol",
+      "email": "slayter007@gmail.com"
+    }
+  ],
+  "require": {
+    "brainmaestro/composer-git-hooks": "^2.8",
+    "squizlabs/php_codesniffer": "^3.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
