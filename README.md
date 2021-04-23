@@ -8,8 +8,8 @@ Github hooks for php code quality. Prevent committing in bad code quality.
     ],
     "fcs" : [
         "git config advice.ignoredHook false",
-        "cp hooks/pre-commit.sh ../../../.git/hooks/pre-commit",
-        "chmod +x ../../../.git/hooks/pre-commit"
+        "cp vendor/lozynskyi/codehook/hooks/pre-commit.sh .git/hooks/pre-commit",
+        "chmod +x .git/hooks/pre-commit"
     ]
   }
 ```
