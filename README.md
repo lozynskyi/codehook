@@ -18,10 +18,9 @@ Add this lines in composer.json file:
   }
 ...
 ```
+How to use:
 
-Execute:
-
-For install dependency: ```composer update``` or ```composer install```
+Execute: install dependency: ```composer update``` or ```composer install```
 
 And after ```composer fcs``` for applying git hooks in pre-commit action.
 
