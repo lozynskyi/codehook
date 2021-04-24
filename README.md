@@ -1,4 +1,4 @@
-# codehook
+We# codehook
 Feel free to use hooks :)
 Github hooks for php code quality. If the quality of the code is bad the commit will be banned.
 
@@ -20,7 +20,8 @@ Add this lines in composer.json file:
 ```
 How to use:
 
-Execute: install dependency: ```composer update``` or ```composer install```
+Execute
+1. install dependency: ```composer update``` or ```composer install```
 
-And after ```composer fcs``` for applying git hooks in pre-commit action.
+2. And after ```composer fcs``` for applying git hooks in pre-commit action.
 
