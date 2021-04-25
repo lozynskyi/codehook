@@ -2,7 +2,7 @@
 Feel free to use hooks :)
 Github hooks for php code quality. If the quality of the code is bad the commit will be banned.
 
-***Add this lines in composer.json file:
+***Add this lines in composer.json file:***
 
 ```
 ...
@@ -18,7 +18,7 @@ Github hooks for php code quality. If the quality of the code is bad the commit 
   }
 ...
 ```
-***How to use:
+***How to use:***
 
 Execute
 1. install dependency: ```composer update``` or ```composer install```
